@@ -3,7 +3,6 @@
 
 ## HTML
 ### Hyper Text Markup Language
-Hyper Text Markup Language
 
 - **태그**
     
@@ -27,9 +26,10 @@ Hyper Text Markup Language
     
     내용이 없어서 종료 태그가 필요하지 않다. 
     
-    - <br>
-    - <img src=””>
-    - <input type=’’>
+    <br>
+    <img src=””>
+    <input type=’’>
+    
 - **공백**
     
     기본적으로 HTML은 두 칸 이상의 공백을 모두 무시한다. 심지어 개행도 무시한다.
